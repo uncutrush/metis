@@ -1,0 +1,26 @@
+# Vercel ignore file
+# Files/directories to exclude from Vercel deployments
+
+# Vite build artifacts (not needed for Next.js)
+dist/
+dist-ssr/
+
+# Test files
+coverage/
+tests/
+*.test.ts
+*.test.tsx
+*.spec.ts
+*.spec.tsx
+
+# Development files
+.vscode/
+.idea/
+
+# Documentation (optional - can be included)
+# docs/
+
+# Old Vite config (keep for reference but not needed)
+# vite.config.ts
+
+
